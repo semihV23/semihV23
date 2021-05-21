@@ -2,6 +2,7 @@
 - 👀 I’m interested in server systems, cyber security, 3D rendering libraries, ISP services, C, C++, Assembly, Python and PHP.
 - 🌱 I’m currently learning C, C++, Python, PHP, JS.
 - 📫 Discord: Semih#7226
+- https://semih-ayyilmaz.ga/
 
 <img src="https://media1.tenor.com/images/ea359fd7da73ba7d12f35fc6a04feaf7/tenor.gif?itemid=16168791" width="300"></img>
 
