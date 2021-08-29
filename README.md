@@ -3,13 +3,13 @@
 <h3 align="center">A curious software developer..</h3>  
 
 #
-  
+
 - 🌱 I’m currently learning: **Assembly, 3D rendering libraries**  
   
 - 👨‍💻 Web-Site: [https://semih-ayyilmaz.ga/](https://semih-ayyilmaz.ga/)  
   
-- 📫 Discord: **Semih#7226**  
-
+- 📫 Discord: **Semih#7226**
+ 
 #
 
 <h3 align="left">Languages and Tools:</h3>  
