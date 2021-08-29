@@ -1,6 +1,8 @@
 
 
 <h3 align="center">A curious software developer..</h3>  
+
+#
   
 - 🌱 I’m currently learning: **Assembly, 3D rendering libraries**  
   
