@@ -4,9 +4,7 @@
 
 #
 
-- 🌱 I’m currently learning: **Assembly, 3D rendering libraries**  
-  
-- 👨‍💻 Web-Site: [https://semih-ayyilmaz.ga/](https://semih-ayyilmaz.ga/)  
+- 🌱 I’m currently learning: **Assembly, 3D rendering libraries**
   
 - 📫 Discord: **Semih#7226**
  
