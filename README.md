@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Assembly, 3D rendering libraries**
   
-- 📫 Discord: **Semih#7226**
+- 📫 Discord: **semi#7226**
  
 #
 
